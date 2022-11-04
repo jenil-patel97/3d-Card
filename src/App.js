@@ -1,7 +1,9 @@
+import Card from "./components/Card";
+
 function App() {
   return (
-    <div className="text-center font-bold text-3xl">
-     Hello
+    <div>
+      <Card />
     </div>
   );
 }
